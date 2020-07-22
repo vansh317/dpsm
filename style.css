@@ -1,0 +1,55 @@
+p{
+    color: #008000 ;
+   
+}
+*{
+    background-color:antiquewhite;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+h2,h3,h4{
+    color:#FF6347;
+    
+}
+h1{
+   color: #ff6347;
+background-color: blue;
+   
+   height: 0;
+}
+.dps{
+    
+    text-align: centER;
+  
+    justify-content: space-around;
+    display: flex;
+
+    
+}
+    
+.dpsm{
+ 
+    text-align: center;
+}
+a:link{
+    color: crimson;
+}
+a:visited{
+    color: blueviolet;
+}
+.dps2{
+position: relative;
+opacity: 0.8
+;
+
+}
+.dps2 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+}
+dps2:hover img{
+ opacity: 0.3;   
+}
